@@ -1,0 +1,2 @@
+# Thota
+This is my first repository 
